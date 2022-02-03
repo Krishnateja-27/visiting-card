@@ -1,0 +1,20 @@
+.visiting-card{
+    background:greenyellow;
+    padding: 10px;
+    width: 332px;
+    height: 130%;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+p{
+    margin: 4px;
+}
+.heading{
+    text-align: right;
+    font-family:cursive;
+    font-size:24px;
+    font-weight:bold;
+    margin-top:20px;
+}
